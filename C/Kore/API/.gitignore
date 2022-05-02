@@ -1,6 +1,0 @@
-*.o
-.flavor
-.objs
-../../API.so
-assets.h
-cert
